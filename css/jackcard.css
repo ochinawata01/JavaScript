@@ -1,0 +1,30 @@
+  
+  
+  body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(/HTML---JAVASCRIPT-PROJECT/img/seabar.jpg);
+    background-size: cover;
+    text-align: center;
+    color: white; 
+    font-weight: bold;
+
+}
+#message-el{
+    font-style: italic;
+}
+
+h1{
+    color: goldenrod ;
+}
+button{
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    border: 1px solid cyan;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border-radius: 3px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}

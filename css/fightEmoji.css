@@ -1,0 +1,24 @@
+
+
+#apple-shelf{
+    width: 200px;
+    height: 35px;
+    margin-top: 20%;
+    margin-left: 40%;
+    border: 2px solid skyblue;
+    border-radius: 50px;
+    background: skyblue;
+    color: #0000;
+}
+
+
+#orange-shelf{
+    width: 200px;
+    height: 35px;
+    margin-top: 20px;
+    margin-left: 40%;
+    border: 2px solid rgb(117, 87, 87);
+    border-radius: 50px;
+    background: rgb(117, 87, 87);
+    color: #fff;
+}
